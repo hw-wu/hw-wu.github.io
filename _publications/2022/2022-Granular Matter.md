@@ -6,7 +6,7 @@ pub:            "Granular Matter"
 pub_date:       "2022"
 abstract: >-
   
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/2022_GM.tif
 authors:
 - $\boldsymbol{Hongwei Wu}$ 
 - Xiaoqiang Gu
