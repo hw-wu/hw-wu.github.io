@@ -8,7 +8,7 @@ abstract: >-
   
 cover:          /assets/images/covers/2022_GM.tif
 authors:
-- $\boldsymbol{Hongwei Wu}$ 
+- Hongwei Wu
 - Xiaoqiang Gu
 - Jing Hu
 - Qihui Zhou 
