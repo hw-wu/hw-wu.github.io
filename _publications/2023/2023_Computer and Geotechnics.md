@@ -9,8 +9,8 @@ cover:          /assets/images/covers/cover1.jpg
 
 authors:
 - Jing Hu
-- Hongwei Wu#
-- Xiaoqiang Gu#
+- Hongwei Wu*
+- Xiaoqiang Gu*
 - Qihui Zhou
 links:
   Paper: https://doi.org/10.1016/j.compgeo.2023.105578
