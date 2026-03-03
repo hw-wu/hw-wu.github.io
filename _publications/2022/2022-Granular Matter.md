@@ -7,6 +7,7 @@ pub_date:       "2022"
 abstract: >-
   
 cover:          /assets/images/covers/2022_GM.png
+semantic_scholar_id: a4aff979a78bc2702152c650f2179a4b2e37fd27  # use this to retrieve citation count
 authors:
 - Hongwei Wu
 - Xiaoqiang Gu
