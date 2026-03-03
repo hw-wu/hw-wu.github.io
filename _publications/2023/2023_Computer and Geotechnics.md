@@ -4,8 +4,7 @@ date:           2023-06-20 00:01:00 +0800
 selected:       true
 pub:            "Computers and Geotechnics"
 pub_date:       "2023"
-abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
+semantic_scholar_id: 1c6edc769cba5d4423eea5ce80af69b3ed70251b  # use this to retrieve citation count
 cover:          /assets/images/covers/cover1.jpg
 
 authors:
