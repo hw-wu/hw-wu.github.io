@@ -42,9 +42,14 @@ education:
     Ph.D. Candidate
   date: Sep. 2023 - present
 - name: Tongji University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/Tongji.png
   position: M.S. in Geotechnical Engineering
   date: Sep. 2020 - Jul. 2023
+
+  - name: Southwest Jiaotong University
+  logo: /assets/images/badges/Swjtu.png
+  position: B.E. in Civil Engineering
+  date: Sep. 2016 - Jul. 2020
 
 # experience:
 # - name: Peking University
