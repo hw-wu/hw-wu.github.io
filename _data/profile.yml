@@ -5,7 +5,7 @@ navbar_name: "Hongwei Wu"
 positions:
 - name: PhD Candidate
 - name: Northwestern University
-  logo: /assets/images/badges/Northwestern_University.png  # Logo is optional
+  logo: /assets/images/badges/NU.png  # Logo is optional
 
 
 email: "hongwei.wu@u.northwestern.edu"
@@ -36,7 +36,7 @@ portrait_caption: >-
 
 education:
 - name: Northwestern University
-  logo: /assets/images/badges/Northwestern_University.png
+  logo: /assets/images/badges/NU.png
   position: >- 
     Department of Civil and Environmental Engineering <br/>
     Ph.D. Candidate
