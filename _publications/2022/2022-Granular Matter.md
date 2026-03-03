@@ -1,7 +1,7 @@
 ---
 title:          "DEM simulation of small strain and large strain behaviors of granular soils with a coherent contact model"
 date:           2022-10-25 00:01:00 +0800
-selected:       true
+selected:       flase
 pub:            "Granular Matter"
 pub_date:       "2022"
 abstract: >-
