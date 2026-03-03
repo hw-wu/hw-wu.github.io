@@ -44,12 +44,14 @@ education:
   
 - name: Tongji University
   logo: /assets/images/badges/Tongji.png
-  position: M.S. in Geotechnical Engineering
+  position: >- 
+    M.S. in Geotechnical Engineering <br/>
   date: Sep. 2020 - Jul. 2023
 
 - name: Southwest Jiaotong University
-  logo: /assets/images/badges/Swjtu.png
-  position: B.E. in Civil Engineering
+  logo: /assets/images/badges/Swjtu.png <br/>
+  position: >- 
+  B.E. in Civil Engineering 
   date: Sep. 2016 - Jul. 2020
 
 # experience:
