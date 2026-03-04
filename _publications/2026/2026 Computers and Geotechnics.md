@@ -8,8 +8,10 @@ semantic_scholar_id: d567fce1d45bd54f2cf4ab51aac61a393b282fc9  # use this to ret
 cover:          /assets/images/covers/cover1.jpg
 
 authors:
+- Jiuyang Zhou
+- Xiaoqiang Gu
 - Hongwei Wu
-- Giuseppe Buscarnera
+- Jing Hu
 
 links:
   Paper: https://doi.org/10.1016/j.compgeo.2026.107965
