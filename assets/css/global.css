@@ -90,17 +90,42 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
-/* Container to handle the overflow during zoom */
+/* 1. Prepare the container */
 .publication-image-container {
-    overflow: hidden;
-    border-radius: 0.25rem; /* Matches rounded-sm used in the template */
+    position: relative; /* Acts as the anchor for the floating popup */
+    /* Ensure overflow: hidden is NOT here! */
 }
 
-/* The hover effect logic */
-.publication-image-hover {
-    transition: transform 0.3s ease; /* Smooth transition */
+/* 2. Style the floating window */
+.floating-popup {
+    position: absolute;
+    top: -20px;       /* Shifts it slightly up */
+    left: 110%;       /* Pushes the window to the right of the thumbnail */
+    width: 350px;     /* How big the floating window should be */
+    z-index: 1050;    /* Forces it to float on top of all text and borders */
+    background-color: #fff;
+    padding: 6px;     /* Gives it a nice white border (like a Polaroid) */
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.4); /* Deep drop-shadow for floating effect */
+    
+    /* Hidden by default */
+    opacity: 0;
+    visibility: hidden;
+    transform: translateX(-10px); /* Starts slightly to the left */
+    transition: all 0.3s ease-in-out;
+    pointer-events: none; /* Prevents the mouse from making it flicker */
 }
 
-.publication-image-hover:hover {
-    transform: scale(1.1); /* Zooms in by 10% */
+/* 3. Style the image inside the floating window */
+.floating-popup img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+/* 4. Trigger the floating window to appear on hover */
+.popup-trigger:hover .floating-popup {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(0); /* Slides smoothly into place */
 }
