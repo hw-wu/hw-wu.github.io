@@ -10,7 +10,7 @@ pub_date:       "2025"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 
 
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/2026 IJSS.jpg
 authors:
   - Hongwei Wu
   - Alyssa VanZanten
