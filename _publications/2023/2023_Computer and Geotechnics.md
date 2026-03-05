@@ -5,7 +5,7 @@ selected:       true
 pub:            "Computers and Geotechnics"
 pub_date:       "2023"
 semantic_scholar_id: 1c6edc769cba5d4423eea5ce80af69b3ed70251b  # use this to retrieve citation count
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/2023 CG.jpg
 
 authors:
 - Jing Hu
