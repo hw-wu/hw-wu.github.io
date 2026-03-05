@@ -5,7 +5,7 @@ selected:       False
 pub:            "Computers and Geotechnics"
 pub_date:       "2026"
 semantic_scholar_id: d567fce1d45bd54f2cf4ab51aac61a393b282fc9  # use this to retrieve citation count
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/2026 CG.jpg
 
 authors:
 - Jiuyang Zhou
