@@ -90,3 +90,17 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
+/* Container to handle the overflow during zoom */
+.publication-image-container {
+    overflow: hidden;
+    border-radius: 0.25rem; /* Matches rounded-sm used in the template */
+}
+
+/* The hover effect logic */
+.publication-image-hover {
+    transition: transform 0.3s ease; /* Smooth transition */
+}
+
+.publication-image-hover:hover {
+    transform: scale(1.1); /* Zooms in by 10% */
+}
