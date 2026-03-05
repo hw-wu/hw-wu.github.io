@@ -5,7 +5,7 @@ selected:       True
 pub:            "Geophysical Research Letters"
 pub_date:       "2025"
 semantic_scholar_id: ca2d2c426530f62ae81c93336255650b3dcfbeae  # use this to retrieve citation count
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/2025 GRL.jpg
 
 authors:
 - Hongwei Wu
