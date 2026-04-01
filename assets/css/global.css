@@ -129,3 +129,17 @@ div.lazy {
     visibility: visible;
     transform: translateX(0); /* Slides smoothly into place */
 }
+
+.zoom-on-hover {
+  transition: transform 0.3s ease-in-out;
+  cursor: zoom-in;
+  transform-origin: center left; /* 'center left' works best for your layout */
+}
+
+.zoom-on-hover:hover {
+  transform: scale(2.0); /* Adjust this number for more/less zoom */
+  z-index: 1050; 
+  position: relative; 
+  box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+  background-color: white;
+}
