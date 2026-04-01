@@ -137,7 +137,7 @@ div.lazy {
 }
 
 .zoom-on-hover:hover {
-  transform: scale(2.0); /* Adjust this number for more/less zoom */
+  transform: scale(5.0); /* Adjust this number for more/less zoom */
   z-index: 1050; 
   position: relative; 
   box-shadow: 0 10px 20px rgba(0,0,0,0.3);
