@@ -21,5 +21,5 @@ authors:
   - Giuseppe Buscarnera
 
 links:
-  Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5644468
+  Paper: http://dx.doi.org/10.1016/j.ijsolstr.2026.114220
 ---
