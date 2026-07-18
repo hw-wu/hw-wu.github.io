@@ -1,6 +1,6 @@
 ---
 title:          "Control Parameters for Swelling-induced Fracture in Brittle Polymer Gels"
-date:           2025-10-21 00:01:00 +0800
+date:           2026-07-18 00:01:00 +0800
 selected:       true
 pub:            International Journal of Solids and Structures
 # pub_pre:        "Submitted to "
