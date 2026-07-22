@@ -14,5 +14,5 @@ authors:
 - Gang Deng
 - Fang Liu
 links:
-  Paper: https://doi.org/10.1016/j.compgeo.2024.106768
+  Paper: https://nuwildcat-my.sharepoint.com/:b:/r/personal/spn6306_ads_northwestern_edu/Documents/Publications/Published%20papers/3%20Computers%20and%20Geotechnics%202024.pdf?csf=1&web=1&e=WkikaO
 ---
