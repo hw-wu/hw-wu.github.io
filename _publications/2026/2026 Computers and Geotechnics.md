@@ -14,5 +14,5 @@ authors:
 - Jing Hu
 
 links:
-  Paper: https://doi.org/10.1016/j.compgeo.2026.107965
+  Paper: https://nuwildcat-my.sharepoint.com/:b:/r/personal/spn6306_ads_northwestern_edu/Documents/Publications/Published%20papers/5%20Computers%20and%20Geotechnics%202026.pdf?csf=1&web=1&e=dWLbRp
 ---
