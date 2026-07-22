@@ -14,5 +14,5 @@ authors:
 - Jing Hu
 - Qihui Zhou 
 links:
-  Paper: https://doi.org/10.1007/s10035-022-01286-8
+  Paper: https://nuwildcat-my.sharepoint.com/:b:/r/personal/spn6306_ads_northwestern_edu/Documents/Publications/Published%20papers/1%20Granular%20Matter%202022.pdf?csf=1&web=1&e=lwPxav
 ---
