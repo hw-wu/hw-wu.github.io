@@ -20,6 +20,5 @@ authors:
   - Caroline R. Szczepanski
   - Giuseppe Buscarnera
 
-links:
-  Paper: http://dx.doi.org/10.1016/j.ijsolstr.2026.114220
+links: https://nuwildcat-my.sharepoint.com/:b:/r/personal/spn6306_ads_northwestern_edu/Documents/Publications/Published%20papers/7%20International%20Journal%20of%20Solids%20and%20Structures%202026.pdf?csf=1&web=1&e=GpcNAD
 ---
