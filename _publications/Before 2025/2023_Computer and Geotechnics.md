@@ -13,5 +13,5 @@ authors:
 - Xiaoqiang Gu#
 - Qihui Zhou
 links:
-  Paper: /assets/papers/2 Computers and Geotechnics 2023.pdf
+  Paper: /assets/Published_papers/2_Computers_and_Geotechnics_2023.pdf
 ---
