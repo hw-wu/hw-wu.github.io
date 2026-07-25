@@ -21,5 +21,5 @@ authors:
   - Giuseppe Buscarnera
 
 links: 
-   Paper: /assets/papers/7 International Journal of Solids and Structures 2026.pdf
+   Paper: /assets/Published_papers/7_International_Journal_of_Solids_and_Structures_2026.pdf
 ---
