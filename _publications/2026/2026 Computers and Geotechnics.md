@@ -14,5 +14,5 @@ authors:
 - Jing Hu
 
 links:
-  Paper: /assets/papers/5 Computers and Geotechnics 2026.pdf
+  Paper: /assets/Published_papers/5_Computers_and_Geotechnics_2026.pdf
 ---
