@@ -14,5 +14,5 @@ authors:
 - Jing Hu
 
 links:
-  Paper: https://nuwildcat-my.sharepoint.com/:b:/r/personal/spn6306_ads_northwestern_edu/Documents/Publications/Published%20papers/5%20Computers%20and%20Geotechnics%202026.pdf?csf=1&web=1&e=dWLbRp
+  Paper: /assets/papers/5 Computers and Geotechnics 2026.pdf
 ---
