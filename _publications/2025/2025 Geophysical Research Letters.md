@@ -12,5 +12,5 @@ authors:
 - Giuseppe Buscarnera
 
 links:
-  Paper: https://doi.org/10.1029/2025GL115461
+  Paper: /assets/Published_papers/4_Geophysical_Research_Letters_2025.pdf
 ---
