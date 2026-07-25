@@ -14,5 +14,5 @@ authors:
 - Gang Deng
 - Fang Liu
 links:
-  Paper: /assets/papers/3 Computers and Geotechnics 2024.pdf
+  Paper: /assets/Published_papers/3_Computers_and_Geotechnics_2024.pdf
 ---
