@@ -13,5 +13,5 @@ authors:
 - Xiaoqiang Gu#
 - Qihui Zhou
 links:
-  Paper: https://nuwildcat-my.sharepoint.com/:b:/r/personal/spn6306_ads_northwestern_edu/Documents/Publications/Published%20papers/2%20Computers%20and%20Geotechnics%202023.pdf?csf=1&web=1&e=Bc1Sgq
+  Paper: /assets/papers/2 Computers and Geotechnics 2023.pdf
 ---
