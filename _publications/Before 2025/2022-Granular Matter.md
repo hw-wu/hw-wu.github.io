@@ -14,5 +14,5 @@ authors:
 - Jing Hu
 - Qihui Zhou 
 links:
-  Paper: /assets/papers/1 Granular Matter 2022.pdf
+  Paper: /assets/Published_papers/1_Granular_Matter_2022.pdf
 ---
